@@ -31,7 +31,7 @@
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 ### 🔗Contact Me
-[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)]([https://www.facebook.com/profile.php?id=100010146062292&mibextid=LQQJ4d](https://www.facebook.com/profile.php?id=100010146062292&mibextid=LQQJ4d)
+[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)]([https://www.facebook.com/profile.php?id=100010146062292&mibextid=LQQJ4d)
 [![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/mariam-ibrahim-642892251)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariamibrahimmi4142726@gmail.com)](mailto:mariamibrahimmi4142726@gmail.com)
 
