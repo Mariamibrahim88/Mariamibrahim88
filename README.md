@@ -1,6 +1,6 @@
 <h1 align="center"> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> -->  Welcome To Mariam Ibrahim's Profile! 👩🏻‍💻</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Computer+Science+student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=FF69B4&lines=Computer+Science+student;)](https://git.io/typing-svg)
 
 <br/>
 
