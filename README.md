@@ -10,8 +10,7 @@
 
 
 <h3><img  width="50" src="https://media.tenor.com/Ry6iWcvWdrYAAAAi/excited.gif" alt="Machiko Sun Moon Typing">About Me</h3> 
-<h4>I’m Mariam Ibrahim ,Computer Science Student at Suez Canal University, I’m an eager learner,I have a strong interest in technology and problem solving, I am gaining expertise in programming languages, data structures, algorithms and software development , i enjoy collaborating with teams and posses strong communication skills. I’m excited to connect with professionals in the computer science field.
-
+<h4>I’m Mariam Ibrahim ,Computer Science Student at Suez Canal University, I’m an eager learner,I have a strong interest in technology and problem solving, I am gaining expertise in programming languages, data structures, algorithms and software development , i enjoy collaborating with teams and posses strong communication skills.
 <hr> 
 	
 <!-- 📫 How to reach me :    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?Gmail&logoColor=white&link=mailto:mariamibrahimmi4142726@gmail.com)](mailto:mariamibrahimmi4142726@gmail.com) -->
