@@ -37,10 +37,15 @@
 
 </p>
  
+ <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariamibrahim88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mariamibrahim88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-
+<hr>
 
 <h3><img width="50" src="https://media.tenor.com/LTqqoUuQqaUAAAAi/tkthao219-quby.gif" alt="Machiko Sun Moon Typing"> Contact Me</h3>
 
@@ -64,14 +69,27 @@
 
 
 
-
-
 <!-- ### 🔗 Links
 [![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/DevAmr74/)
 [![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/mariam-ibrahim-642892251)
 <a href="mailto:mariamibrahimmi4142726@gmail.com><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
+
+
+
+ 
+
+###
+
+
+
+
+
+
+
+###
 
 <!-- ### Stats
 
