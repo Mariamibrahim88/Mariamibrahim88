@@ -54,8 +54,11 @@
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/profile.php?id=100010146062292&mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mariam Ibrahim" width="40" height="40"/>
 &nbsp;&nbsp;&nbsp;</a>		
-<a href="http://linkedin.com/in/mariam-ibrahim-642892251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam-ibrahim"  width="40" height="40" />&nbsp;&nbsp;&nbsp;</a>
-<a href="mailto:mariamibrahimmi4142726@gmail.com"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="Gmail" height="40" width="40" />  &nbsp;</a> 	
+<a href="http://linkedin.com/in/mariam-ibrahim-642892251" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="mariam-ibrahim"  width="45" height="45" />&nbsp;&nbsp;&nbsp;</a>
+<a href="mailto:mariamibrahimmi4142726@gmail.com"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Gmail" height="45" width="45" />  &nbsp;</a> 
+<!-- 	<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a> -->
 <a href="https://codeforces.com/profile/mariamibrahim88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mariamibrahim88" width="50" height="50" /> </a>
 
 
